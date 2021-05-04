@@ -1,4 +1,4 @@
-module github.com/my/repo
+module github.com/ronak-patidar/Banking-System
 
 go 1.16
 
